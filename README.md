@@ -1,3 +1,3 @@
-# Chris Hansen Discord bot
+# Bulldog (Discord Bot)
 
 ## Written by Atticus Zambrana
